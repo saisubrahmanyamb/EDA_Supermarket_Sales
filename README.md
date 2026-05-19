@@ -99,6 +99,7 @@ The visualizations and insights generated from this analysis can help businesses
 
 ## Folder Structure
 
+```text
 EDA_Supermarket_Sales/
 │
 ├── data/
@@ -115,10 +116,4 @@ EDA_Supermarket_Sales/
 │   └── supermarket_eda.ipynb
 │
 └── README.md
-
----
-
-## Author
-B. Sai Subrahmanyam  
-B.Tech CSE (AI & ML)  
-ANITS, Visakhapatnam
+```
