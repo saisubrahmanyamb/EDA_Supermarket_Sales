@@ -1,5 +1,7 @@
 # Superstore Sales EDA
 
+![Sales Distribution](images/sales_distribution.png)
+
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Superstore Sales dataset to identify meaningful business insights, customer purchasing patterns, product performance, and regional sales trends using Python data analysis and visualization libraries.
 
