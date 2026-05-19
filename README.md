@@ -2,6 +2,13 @@
 
 ![Sales Distribution](images/sales_distribution.png)
 
+## Internship Details
+
+- **Internship Provider:** CodeTech IT Solutions
+- **Domain:** Data Science
+- **Project Title:** Exploratory Data Analysis on Superstore Sales Dataset
+- **Intern ID:** CITS801
+
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Superstore Sales dataset to identify meaningful business insights, customer purchasing patterns, product performance, and regional sales trends using Python data analysis and visualization libraries.
 
